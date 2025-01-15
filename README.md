@@ -2,6 +2,8 @@
 
 A basic C library for STM8S003F3 microcontrollers.
 
+This project was a collaborative effort. While I focused on the software libray, the hardware is designed by [OgzhnDev](https://github.com/OgzhnDev/STM8S003F3-HWBoard).
+
 ## Current Features
 
 - UART communication
